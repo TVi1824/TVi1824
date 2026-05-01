@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☁️ Hi there, I'm Tường Vi! 
+# ☁️ Hi there, I'm Tuong Vi! 
 ### *Bridging Business Needs with Technical Solutions*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=IT+Business+Analyst+Intern;Data+Analyst+Aspirant;Information+Systems+Student)](https://git.io/typing-svg)
