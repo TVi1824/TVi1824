@@ -28,19 +28,19 @@
 <table align="center">
   <tr>
     <td align="center" width="250">
-      <b>☁️ Data & Cloud</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=mysql,mssql,bigquery,gcp" alt="Data & Cloud" />
+      <b>☁️ Data, Cloud & Ops</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=mysql,mssql,bigquery,gcp,docker" alt="Data & Cloud" />
     </td>
     <td align="center" width="250">
       <b>📊 Analysis & Modeling</b><br /><br />
-      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" height="30"/>
-      <img src="https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" height="30"/><br />
-      <img src="https://img.shields.io/badge/-Lucid-F0652F?style=for-the-badge&logo=lucidchart&logoColor=white" height="30"/>
-      <img src="https://img.shields.io/badge/-Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="30"/>
+      <img src="https://skillicons.dev/icons?i=powerbi" />
+      <img src="https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" height="45"/>
+      <img src="https://img.shields.io/badge/-Lucid-F0652F?style=for-the-badge&logo=lucidchart&logoColor=white" height="45"/>
+      <img src="https://img.shields.io/badge/-Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="45"/>
     </td>
     <td align="center" width="250">
       <b>⚙️ Dev & Management</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=github,jira,postman,visualstudio,vscode" alt="Dev & Management" />
+      <img src="https://skillicons.dev/icons?i=github,jira,postman,visualstudio,vscode" alt="Management" />
     </td>
   </tr>
 </table>
