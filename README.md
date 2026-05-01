@@ -25,25 +25,27 @@
 
 ### 🛠️ My Toolbox
 
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <b>☁️ Data, Cloud & Ops</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=mysql,mssql,bigquery,gcp,docker" alt="Data & Cloud" />
-    </td>
-    <td align="center" width="250">
-      <b>📊 Analysis & Modeling</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=powerbi" />
-      <img src="https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" height="45"/>
-      <img src="https://img.shields.io/badge/-Lucid-F0652F?style=for-the-badge&logo=lucidchart&logoColor=white" height="45"/>
-      <img src="https://img.shields.io/badge/-Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="45"/>
-    </td>
-    <td align="center" width="250">
-      <b>⚙️ Dev & Management</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=github,jira,postman,visualstudio,vscode" alt="Management" />
-    </td>
-  </tr>
-</table>
+#### ☁️ Data & Cloud Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+#### 📊 Analysis & Business Intelligence
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google-looker&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F0652F?style=flat&logo=lucidchart&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
+
+#### ⚙️ Development & Project Management
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ---
 
