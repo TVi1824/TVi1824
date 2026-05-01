@@ -4,12 +4,10 @@
 
 </div>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=120&section=header&text=💫%20About%20Me&fontSize=40&animation=fadeIn" />
-</p>
+### 💫 About Me
 - **Education:** Information Systems major at **HUTECH University**.
 - **Career Goal:** Aspiring **IT Business Analyst** dedicated to leveraging data to drive strategic business decisions.
-- **Focus:** Systems Analysis, Database Design (RDBMS/NoSQL), and Automated Data Pipeline development.
+- **Focus:** Systems Analysis, Database Design, and Automated Data Pipeline development.
 - **Learning:** Enhancing expertise in Agile/Scrum methodologies and Requirements Engineering.
 
 ---
