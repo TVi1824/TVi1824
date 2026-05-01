@@ -27,23 +27,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="350">
-      <b>Data & Databases / Cloud</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,bigquery,gcp" alt="Data Skills" />
+    <td align="center" width="250">
+      <b>☁️ Data & Cloud</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,bigquery,gcp" alt="Data & Cloud" />
     </td>
-    <td align="center" width="350">
-      <b>Management & Development</b><br /><br />
-      <img src="https://skillicons.dev/icons?i=github,jira,postman,visualstudio,vscode" alt="Management Skills" />
+    <td align="center" width="250">
+      <b>📊 Analysis & Modeling</b><br /><br />
+      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" height="35"/>
+      <img src="https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" height="35"/><br />
+      <img src="https://img.shields.io/badge/-Lucid-F0652F?style=for-the-badge&logo=lucidchart&logoColor=white" height="35"/>
+      <img src="https://img.shields.io/badge/-Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" height="35"/>
+    </td>
+    <td align="center" width="250">
+      <b>⚙️ Dev & Management</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=github,jira,postman,visualstudio,vscode" alt="Management" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Visualization-Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Analysis-Looker_Studio-4285F4?style=flat-square&logo=google-looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Lucidchart-F0652F?style=flat-square&logo=lucidchart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modeling-Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
-</div>
 
 ---
 
