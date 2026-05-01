@@ -27,22 +27,23 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <b>Data & Databases</b><br />
-      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,mongodb,py,postman" />
+    <td align="center" width="210">
+      <b>Data & Cloud</b><br />
+      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,gcp,bigquery" alt="Data & Cloud" />
     </td>
-    <td align="center" width="300">
-      <b>Management & Analytics</b><br />
-      <img src="https://skillicons.dev/icons?i=figma,github,jira,visualstudio,idea" />
+    <td align="center" width="210">
+      <b>Analysis & Design</b><br />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google-looker&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Lucidchart-F0652F?style=flat-square&logo=lucidchart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
+    </td>
+    <td align="center" width="210">
+      <b>Dev & Management</b><br />
+      <img src="https://skillicons.dev/icons?i=github,jira,postman,visualstudio,vscode" alt="Management & Dev" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Visualization-Looker_Studio-4285F4?style=flat-square&logo=google-looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Process_Modeling-BPMN-FF6C37?style=flat-square&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Windows/macOS-0078D4?style=flat-square&logo=windows&logoColor=white" />
-</div>
 
 ---
 
