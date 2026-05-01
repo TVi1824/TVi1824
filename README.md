@@ -2,6 +2,8 @@
 
 # ☁️ Hi there, I'm Tuong Vi! 
 
+</div>
+
 ### 💫 About Me
 - **Education:** Information Systems major at **HUTECH University**.
 - **Career Goal:** Aspiring **IT Business Analyst** dedicated to leveraging data to drive strategic business decisions.
@@ -43,5 +45,5 @@
 
 #### [HRM Database Architecture](#)
 > **Role:** Database Designer
-> - Architected a robust Human Resource Management (HRM) database system with a highly integrated relational structure.
+> - Architected a robust Human Resource Management (HRM) database system với cấu trúc 51 bảng tích hợp.
 > - Optimized complex queries and implemented strict constraints to ensure enterprise-grade data integrity.
