@@ -4,7 +4,7 @@
 
 </div>
 
-### 💫 About Me
+## ![About Me](https://img.shields.io/badge/-💫%20About%20Me-4285F4?style=for-the-badge)
 - **Education:** Information Systems major at **HUTECH University**.
 - **Career Goal:** Aspiring **IT Business Analyst** dedicated to leveraging data to drive strategic business decisions.
 - **Focus:** Systems Analysis, Database Design (RDBMS/NoSQL), and Automated Data Pipeline development.
