@@ -27,20 +27,27 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="210">
-      <b>Data & Cloud</b><br />
-      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,gcp,bigquery" alt="Data & Cloud" />
+    <td align="center" width="220">
+      <b>☁️ Data & Cloud</b><br /><br />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-bigquery&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
     </td>
-    <td align="center" width="210">
-      <b>Analysis & Design</b><br />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+    <td align="center" width="220">
+      <b>📊 Analysis & Design</b><br /><br />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /><br />
       <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google-looker&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Lucidchart-F0652F?style=flat-square&logo=lucidchart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lucidchart-F0652F?style=flat-square&logo=lucidchart&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white" />
     </td>
-    <td align="center" width="210">
-      <b>Dev & Management</b><br />
-      <img src="https://skillicons.dev/icons?i=github,jira,postman,visualstudio,vscode" alt="Management & Dev" />
+    <td align="center" width="220">
+      <b>⚙️ Dev & Management</b><br /><br />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
     </td>
   </tr>
 </table>
