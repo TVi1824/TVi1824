@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 Highlight Projects
+### 📌 Highlight Projects
 
 #### [MY-ELT-PROJECT](https://github.com/TVi1824/MY-ELT-PROJECT)
 > **Role:** Data Engineer / Data Analyst
