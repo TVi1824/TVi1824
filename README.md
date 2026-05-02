@@ -45,5 +45,5 @@
 
 #### [HRM Database Architecture](#)
 > **Role:** Database Designer
-> - Architected a robust Human Resource Management (HRM) database system với cấu trúc 51 bảng tích hợp.
+> - Architected a robust Human Resource Management (HRM) database system with a highly integrated relational structure.
 > - Optimized complex queries and implemented strict constraints to ensure enterprise-grade data integrity.
