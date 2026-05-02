@@ -39,11 +39,11 @@
 ### 🚀 Highlight Projects
 
 #### [MY-ELT-PROJECT](https://github.com/TVi1824/MY-ELT-PROJECT)
-> **Role:** Data Engineer / Analyst
+> **Role:** Data Engineer / Data Analyst
 > - Engineered an automated ELT pipeline to migrate raw CSV data into PostgreSQL using Python.
 > - Developed comprehensive data visualizations on Looker Studio to provide actionable business insights.
 
 #### [HRM Database Architecture](#)
-> **Role:** Database Designer
+> **Role:** Database Designer / Business Analyst
 > - Architected a robust Human Resource Management (HRM) database system with a highly integrated relational structure.
 > - Optimized complex queries and implemented strict constraints to ensure enterprise-grade data integrity.
