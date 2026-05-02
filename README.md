@@ -43,7 +43,7 @@
 > - Engineered an automated ELT pipeline to migrate raw CSV data into PostgreSQL using Python.
 > - Developed comprehensive data visualizations on Looker Studio to provide actionable business insights.
 
-#### [HRM Database Architecture](#)
+#### [Employee-Management-System](https://github.com/TVi1824/Employee-Management-System)
 > **Role:** Database Designer / Business Analyst
 > - Architected a robust Human Resource Management (HRM) database system with a highly integrated relational structure.
 > - Optimized complex queries and implemented strict constraints to ensure enterprise-grade data integrity.
